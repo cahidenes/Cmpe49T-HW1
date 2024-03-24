@@ -1,0 +1,6 @@
+================ Training Loss (Sat Mar 23 14:36:19 2024) ================
+================ Training Loss (Sat Mar 23 14:53:21 2024) ================
+(epoch: 1, iters: 100, time: 11.936, data: 0.129) D_A: 0.463 G_A: 0.645 cycle_A: 1.603 idt_A: 1.581 D_B: 0.643 G_B: 0.524 cycle_B: 3.181 idt_B: 0.710 
+(epoch: 1, iters: 200, time: 12.140, data: 0.003) D_A: 0.422 G_A: 0.317 cycle_A: 2.256 idt_A: 0.483 D_B: 0.288 G_B: 0.420 cycle_B: 1.016 idt_B: 1.267 
+(epoch: 1, iters: 300, time: 11.977, data: 0.002) D_A: 0.125 G_A: 0.417 cycle_A: 1.378 idt_A: 0.847 D_B: 0.259 G_B: 0.365 cycle_B: 1.603 idt_B: 0.705 
+(epoch: 1, iters: 400, time: 12.779, data: 0.008) D_A: 0.202 G_A: 0.314 cycle_A: 1.290 idt_A: 0.383 D_B: 0.261 G_B: 0.349 cycle_B: 0.877 idt_B: 0.658 
